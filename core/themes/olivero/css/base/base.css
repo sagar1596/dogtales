@@ -183,3 +183,11 @@ ul {
   list-style-type: disc;
   list-style-image: none;
 }
+
+.node-blog-post-form #edit-body-0-format-help {
+  display: none;
+}
+
+.block-private-message-notification-block > h2.block__title {
+  display: none;
+}

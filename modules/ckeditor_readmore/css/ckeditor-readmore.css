@@ -1,0 +1,7 @@
+/**
+ * CKEditor Read more styles.
+ */
+
+.ckeditor-readmore-wrapper .ckeditor-readmore {
+  display: none;
+}

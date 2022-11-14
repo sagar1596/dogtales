@@ -1,0 +1,9 @@
+ckeditor_readmore:
+  js:
+    js/ckeditor-readmore.js: {}
+  css:
+    theme:
+      css/ckeditor-readmore.css: {}
+  dependencies:
+    - core/jquery
+    - core/drupal

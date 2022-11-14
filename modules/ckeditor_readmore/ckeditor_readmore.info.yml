@@ -1,0 +1,12 @@
+name: 'CKEditor Read More Module'
+type: module
+description: 'Adds read more button to CKEditor panel'
+core_version_requirement: ^8 || ^9
+package: CKEditor
+dependencies:
+  - drupal:ckeditor
+
+# Information added by Drupal.org packaging script on 2020-09-17
+version: '2.0.0'
+project: 'ckeditor_readmore'
+datestamp: 1600332444
